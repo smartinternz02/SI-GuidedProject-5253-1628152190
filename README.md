@@ -8,5 +8,5 @@
  Smart ID Scanner
  
  
- In this the main aim is to extract text from the image and display it to the user. We have included login module, Registration module, Extraction of text module and at last displaying the text module. 
+ In this the main aim is to extract text from the image and display it to the user. We have included login module, Registration module, Extraction of text module and at last displaying the text module. This website will accept all type of images like png,jpg. 
  
